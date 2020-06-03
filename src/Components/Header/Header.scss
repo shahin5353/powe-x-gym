@@ -1,0 +1,12 @@
+$item_gap: 25px;
+
+.navbar a{
+    margin-right: $item_gap;
+}
+
+.navbar span{
+    margin-left: $item_gap;
+}
+a{
+    text-decoration: none;
+}

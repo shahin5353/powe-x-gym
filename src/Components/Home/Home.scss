@@ -1,0 +1,65 @@
+$element_margin_top: 100px;
+
+
+.jumbotron{
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.70), rgba(0,0,0,0.70)),url('../../images/banner-bg.jpg');
+    background-position: top -305px right;
+    height: 100%;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    padding: 200px 0px;
+    color:white;
+}
+
+
+.progression{
+    background-image: url("../../power-x-gym/Image & Icon/hipcravo-5UbIqV58CW8-unsplash.jpg");
+}
+
+.workout{
+    background-image: url("../../power-x-gym/Image & Icon/daniel-apodaca-WdoQio6HPVA-unsplash.jpg");
+}
+
+.nutrition{
+    background-image: url("../../power-x-gym/Image & Icon/penguinuhh-8VI6WwEEEHw-unsplash.jpg");
+}
+
+.progression, .workout, .nutrition{
+    margin-top: $element_margin_top;
+    background-size: cover;
+    margin-right: 5%;
+    color: white;
+    text-align: center;
+    padding-top: 250px;
+    margin-left: 20px;
+}
+
+.about{
+    margin-top: $element_margin_top;
+}
+
+.about img{
+    height: 100%;
+    width: 100%;
+}
+
+.why_us{
+    margin-top: $element_margin_top;
+}
+
+.why_us h1{
+    margin-bottom: 50px;
+}
+
+.card img{
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.banner-heading{
+    font-weight: 700;
+    line-height: 80px;
+}

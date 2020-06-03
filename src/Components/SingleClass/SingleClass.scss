@@ -1,0 +1,11 @@
+.class_image{
+    display: block;
+    width: 100%;
+    height: 50vh;
+}
+$breakpoint-tablet: 768px;
+@media (min-width: $breakpoint-tablet) {
+  #join-btn {
+      margin-top: -50px;
+  }
+}
