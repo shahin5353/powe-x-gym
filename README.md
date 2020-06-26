@@ -1,4 +1,4 @@
-# PowerX Gym
+# Power X Gym
 This is a website for a gym center. If a person wants to join this gym center through this site he/she can know about the gym center, their services and also can buy packages via the online payment system.
 
 
